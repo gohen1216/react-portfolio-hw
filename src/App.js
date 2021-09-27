@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return ( 
-  <><div className="ui menu">
+  return (
+    <div><div className="ui menu">
       <div className="header item">
         Sanusi Cole
       </div>
@@ -16,14 +16,14 @@ function App() {
       <a className="item" href="#Contact">
         Contact
       </a>
-    </div><img className="ui fluid image" src="https://www.klaviyo.com/wp-content/uploads/2016/09/abstract-background-1024x273.jpg">
-        <div className="ui celled grid stackable">
-          <div className="row" id="About-Me">
-            <div className="three wide column">
-              <p>About Me</p>
-            </div>
-            <div className="thirteen wide column">
-              <p>Hello My name is Sanusi Cole I'm 18 just graduated Highschool about five months early. I was born in Columbus Ohio currently live in Charlotte North Carolina. I enjoy playing video games, wathcing anime, and my favorite food is pizza. I have a stong work ethic and my favorite color is red.</p> </div>
+    </div><img className="ui fluid image" src="https://www.klaviyo.com/wp-content/uploads/2016/09/abstract-background-1024x273.jpg" />
+      <div className="ui celled grid stackable">
+        <div className="row" id="About-Me">
+          <div className="three wide column">
+            <p>About Me</p>
+          </div>
+          <div className="thirteen wide column">
+            <p>Hello My name is Sanusi Cole I'm 18 just graduated Highschool about five months early. I was born in Columbus Ohio currently live in Charlotte North Carolina. I enjoy playing video games, wathcing anime, and my favorite food is pizza. I have a stong work ethic and my favorite color is red.</p>
           </div>
         </div>
         <div className="row" id="Projects">
@@ -90,8 +90,8 @@ function App() {
 
           </div>
         </div>
-      </img> </>
-
+      </div>
+    </div>
   );
 }
 
