@@ -33,7 +33,7 @@ function App() {
           <div className="thirteen wide row column centered">
             <div className="ui column card">
               <a className="image" href="#">
-                <img src={process.env.PUBLIC_URL + "/photos/password.PNG"}></img>
+                <img src={process.env.PUBLIC_URL + "photos/password.PNG"}></img>
               </a>
               <div className="content">
                 <a className="header" href="https://gohen1216.github.io/password-generator">Site</a>
@@ -43,7 +43,7 @@ function App() {
             </div>
             <div className="ui column card">
               <a className="image" href="#">
-                <img src={process.env.PUBLIC_URL+"/photos/Capture3.PNG"}></img>
+                <img src={process.env.PUBLIC_URL+"photos/Capture3.PNG"}></img>
               </a>
               <div className="content">
                 <a className="header" href="https://gohen1216.github.io/week1-hw/">Site</a>
@@ -51,7 +51,7 @@ function App() {
 
                 <div className="ui card">
                   <a className="image" href="#">
-                    <img src={process.env.PUBLIC_URL + "/photos/dayplanner.PNG"}></img>
+                    <img src={process.env.PUBLIC_URL + "photos/dayplanner.PNG"}></img>
                   </a>
                   <div className="content">
                     <a className="header" href="https://gohen1216.github.io/day-planner/">Site</a>
@@ -64,7 +64,7 @@ function App() {
             </div>
             <div className="ui column card">
               <a className="image" href="#">
-                <img src= {process.env.PUBLIC_URL + "/public/photos/newproject.PNG"}></img>
+                <img src= {process.env.PUBLIC_URL + "photos/newproject.PNG"}></img>
               </a>
               <div className="content">
                 <a className="header" href="https://gohen1216.github.io/Hiketunez/">Site</a>
